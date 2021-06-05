@@ -1,0 +1,17 @@
+{
+  "title": "<Strategy to Your Heart>",
+  "description": "<manga description>",
+  "artist": "<吧唧小恐龙>",
+  "author": "<吧唧小恐龙>",
+  "cover": "<cover.u17i.com/2020/01/4585377_1577878898_0z0BYfnb2Bgm.big.jpg>",
+  "chapters": {
+    "<1>": {
+      "title": "<Chapter 1: First Sight>",
+      "volume": "<1>",
+      "groups": {
+        "<Lumisbored>": "/proxy/api/imgur/chapter/<7NO153Z>/"
+      },
+      "last_updated": "1622877253"
+    }
+  }
+}
